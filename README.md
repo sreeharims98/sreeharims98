@@ -5,7 +5,7 @@ JavaScript Developer
 -----------------------------
 
 * 🌍  I'm based in Kerala, India
-* 🖥️  See my portfolio at [sreeharims98.com](https://sreeharims-3d-portfolio.vercel.app)
+* 🖥️  See my [portfolio](https://sreeharims-3d-portfolio.vercel.app)
 * ✉️  You can contact me at [iamsreeharims@gmail.com](mailto:iamsreeharims@gmail.com)
 * 🚀  I'm currently working on [Arkellis.com](https://arkellis.com)
 * 🧠  I'm learning WebXR
