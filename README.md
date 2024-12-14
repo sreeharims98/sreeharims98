@@ -1,7 +1,7 @@
 Hi 👋 My name is Sreehari MS
 ===============================
 
-JavaScript Developer
+JavaScript Web Developer
 -----------------------------
 
 * 🌍  I'm based in Kerala, India
